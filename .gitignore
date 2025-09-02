@@ -1,0 +1,34 @@
+# Model files (large and regeneratable)
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Model directories
+models/
+results/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
